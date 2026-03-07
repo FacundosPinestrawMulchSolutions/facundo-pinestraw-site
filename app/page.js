@@ -89,28 +89,36 @@ export default function PineStrawMulchWebsite() {
             </div>
           </div>
 
-      <div className="grid items-start gap-4 sm:grid-cols-2">
-            <div className="rounded-3xl border border-stone-200 bg-white p-6 shadow-lg">
-<img
-  src="/pine1.png"
-  alt="Pine straw installation"
-  className="h-56 w-full rounded-2xl object-cover"
-/>
-    <p className="mt-2 text-sm leading-6 text-stone-600">
-                A natural, warm look that helps protect soil and keeps beds tidy.
-              </p>
-            </div>
-            <div className="rounded-3xl border border-stone-200 bg-white p-6 shadow-lg sm:mt-10">
-<img
-  src="/mulch1.png"
-  alt="Mulch installation"
-  className="h-56 w-full rounded-2xl object-cover"
-/>
-    <p className="mt-2 text-sm leading-6 text-stone-600">
-                A bold, polished finish for landscape beds, shrubs, and pathways.
-              </p>
-            </div>
-          </div>
+<div className="grid gap-4 grid-cols-2">
+
+<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+  <img
+    src="/pine1.png"
+    className="h-40 w-full rounded-xl object-cover"
+  />
+</div>
+
+<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+  <img
+    src="/mulch1.png"
+    className="h-40 w-full rounded-xl object-cover"
+  />
+</div>
+
+<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+  <img
+    src="/mulchred2.png"
+    className="h-40 w-full rounded-xl object-cover"
+  />
+</div>
+
+<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+  <img
+    src="/mulchblack3.png"
+    className="h-40 w-full rounded-xl object-cover"
+  />
+</div>
+</div>
         </div>
       </section>
 
