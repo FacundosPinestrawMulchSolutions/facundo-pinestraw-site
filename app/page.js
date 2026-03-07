@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Facundo's Pinestraw & Mulch Solutions | Pine Straw & Mulch Installation Marietta GA",
+  description:
+    "Professional pine straw and mulch installation in Marietta, Woodstock, Acworth, Kennesaw, Canton, and Powder Springs GA. Free estimates. Call 770-878-2154",
+};
 export default function PineStrawMulchWebsite() {
   const services = [
     {
