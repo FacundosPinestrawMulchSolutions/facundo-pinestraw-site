@@ -406,5 +406,4 @@ export default function PineStrawMulchWebsite() {
     </div>
   );
 }
-/p>
 
