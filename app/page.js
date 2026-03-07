@@ -130,36 +130,53 @@ export default function PineStrawMulchWebsite() {
       </section>
 
       <section className="border-t border-stone-200 bg-white">
-        <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
-          <div className="max-w-3xl">
-            <p className="text-sm font-semibold uppercase tracking-[0.2em] text-amber-700">
-              Service Areas
-            </p>
-            <h2 className="mt-3 text-3xl font-bold sm:text-4xl">Proudly serving local homes and properties</h2>
-            <p className="mt-5 leading-7 text-stone-600">
-              Facundo&apos;s Pinestraw &amp; Mulch Solutions proudly serves homeowners, rental properties, and small businesses throughout North Metro Atlanta.
-            </p>
-          </div>
+  <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
 
-          <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {[
-              "Marietta",
-              "Woodstock",
-              "Acworth",
-              "Kennesaw",
-              "Canton",
-              "Powder Springs",
-            ].map((city) => (
-              <div
-                key={city}
-                className="rounded-3xl border border-stone-200 bg-stone-50 px-5 py-4 text-lg font-medium text-stone-800 shadow-sm"
-              >
-                {city}
-              </div>
-            ))}
-          </div>
+    <p className="text-sm font-semibold uppercase tracking-[0.2em] text-amber-700">
+      Service Areas
+    </p>
+
+    <h2 className="mt-3 text-3xl font-bold sm:text-4xl">
+      Proudly serving local homes and properties
+    </h2>
+
+    <p className="mt-5 leading-7 text-stone-600">
+      Facundo's Pinestraw & Mulch Solutions proudly serves homeowners,
+      rental properties, and small businesses throughout North Metro Atlanta.
+    </p>
+
+    <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+
+      {[
+        "Marietta",
+        "Woodstock",
+        "Acworth",
+        "Kennesaw",
+        "Canton",
+        "Powder Springs",
+      ].map((city) => (
+        <div
+          key={city}
+          className="rounded-3xl border border-stone-200 bg-stone-50 px-5 py-4 text-lg font-medium text-stone-800 shadow-sm"
+        >
+          {city}
         </div>
-      </section>
+      ))}
+
+    </div>
+
+    <div className="mt-10 overflow-hidden rounded-3xl border border-stone-200 shadow-sm">
+      <iframe
+        src="https://maps.google.com/maps?q=marietta%20ga&t=&z=10&ie=UTF8&iwloc=&output=embed"
+        width="100%"
+        height="400"
+        style={{ border: 0 }}
+        loading="lazy"
+      ></iframe>
+    </div>
+
+  </div>
+</section>
 
       <section className="border-y border-stone-200 bg-stone-100">
         <div className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
