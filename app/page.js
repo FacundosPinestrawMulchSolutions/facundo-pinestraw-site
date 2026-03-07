@@ -114,7 +114,7 @@ export default function PineStrawMulchWebsite() {
 
 <div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
   <img
-    src="/mulchblack3.png"
+    src="/mulchtreering1.png"
     className="h-40 w-full rounded-xl object-cover"
   />
 </div>
