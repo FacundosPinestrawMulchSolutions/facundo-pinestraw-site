@@ -46,10 +46,10 @@ export default function PineStrawMulchWebsite() {
               Facundo's Pinestraw & Mulch Solutions
             </div>
             <h1 className="max-w-2xl text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
-              Facundo's Pinestraw & Mulch Solutions — making your property look clean, fresh, and professionally finished.
+              Facundo's Pinestraw & Mulch Solutions — Pine Straw & Mulch Installation in Marietta, Woodstock, Acworth, Kennesaw, Canton, and Powder Springs GA.
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-8 text-stone-600">
-              We install pine straw and mulch for homeowners, rental properties, and small businesses. Whether you need a quick refresh or a full landscape bed cleanup, we help boost curb appeal without the hassle.
+              We install pine straw and mulch for homeowners, rental properties, and businesses. Whether you need a quick refresh or a full landscape bed cleanup, we help boost curb appeal without the hassle.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a
@@ -133,6 +133,19 @@ export default function PineStrawMulchWebsite() {
           ))}
         </div>
       </section>
+            <div className="hidden">
+
+Pine straw installation Marietta GA  
+Mulch installation Woodstock GA  
+Landscaping Acworth GA  
+Pine straw Kennesaw GA  
+Mulch Canton GA  
+Landscaping Powder Springs GA  
+Pine straw near me  
+Mulch installation near me  
+Landscape cleanup North Metro Atlanta  
+
+</div>
 
       <section className="border-t border-stone-200 bg-white">
   <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
@@ -147,7 +160,7 @@ export default function PineStrawMulchWebsite() {
 
     <p className="mt-5 leading-7 text-stone-600">
       Facundo's Pinestraw & Mulch Solutions proudly serves homeowners,
-      rental properties, and small businesses throughout North Metro Atlanta.
+      rental properties, and businesses throughout North Metro Atlanta.
     </p>
 
     <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
