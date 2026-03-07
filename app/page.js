@@ -91,7 +91,6 @@ export default function PineStrawMulchWebsite() {
 
           <div className="grid gap-4 sm:grid-cols-2">
             <div className="rounded-3xl border border-stone-200 bg-white p-6 shadow-lg">
-              <div className="h-56 rounded-2xl bg-[linear-gradient(135deg,#c08a43,#8a5a2b)]" />
 <img
   src="/pine1.png"
   alt="Pine straw installation"
@@ -102,7 +101,6 @@ export default function PineStrawMulchWebsite() {
               </p>
             </div>
             <div className="rounded-3xl border border-stone-200 bg-white p-6 shadow-lg sm:mt-10">
-              <div className="h-56 rounded-2xl bg-[linear-gradient(135deg,#6b4f2d,#3d2c1a)]" />
 <img
   src="/mulch1.png"
   alt="Mulch installation"
