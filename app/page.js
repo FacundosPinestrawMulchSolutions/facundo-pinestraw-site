@@ -118,7 +118,7 @@ export default function PineStrawMulchWebsite() {
 
 <div className="self-start rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
   <img
-    src="/mulchtreering1.png"
+    src="/treerings1.png"
     className="w-full rounded-xl object-cover"
   />
 </div>
@@ -432,6 +432,7 @@ Landscape cleanup North Metro Atlanta
               <li>Cash</li>
               <li>Zelle</li>
               <li>Checks</li>
+              <li>Debit or Credit Cards</li>
             </ul>
             <p className="mt-4 text-sm text-stone-500">
               Payment details will be provided once the estimate is approved and the job is scheduled.
