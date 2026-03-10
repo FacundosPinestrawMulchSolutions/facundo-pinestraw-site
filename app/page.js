@@ -90,7 +90,7 @@ export default function PineStrawMulchWebsite() {
           </div>
 
 <div className="grid items-start gap-4 grid-cols-2">
-<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col"
+<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col">
   <img
     src="/pine1.png"
     className="w-full rounded-xl object-cover"
@@ -102,7 +102,7 @@ export default function PineStrawMulchWebsite() {
 
 </div>
 
-<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col"
+<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col">
 
   <img
     src="/mulch1.png"
@@ -116,7 +116,7 @@ export default function PineStrawMulchWebsite() {
 
 </div>
 
-<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col"
+<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col">
 
   <img
     src="/mulchred2.png"
@@ -130,7 +130,7 @@ export default function PineStrawMulchWebsite() {
 
 </div>
 
-<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col"
+<div className="h-full rounded-3xl border border-stone-200 bg-white p-4 shadow-lg flex flex-col">
 
   <img
     src="/mulchblack3.png"
