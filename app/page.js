@@ -141,9 +141,10 @@ export default function PineStrawMulchWebsite() {
   <p className="mt-2 text-sm text-stone-600">
     Tree ring mulch installation to keep trees healthy and yards clean.
   </p>
-
+      
 </div>
-      </section>
+</div>
+</section>
 
       <section id="services" className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
         <div className="max-w-2xl">
