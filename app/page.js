@@ -103,27 +103,46 @@ export default function PineStrawMulchWebsite() {
 </div>
 
 <div className="self-start rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+
   <img
     src="/mulch1.png"
+    alt="Mulch installation"
     className="w-full rounded-xl object-cover"
   />
+
+  <p className="mt-2 text-sm text-stone-600">
+    Black mulch installation for a clean, bold, professional finish.
+  </p>
+
 </div>
 
 <div className="self-start rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+
   <img
     src="/mulchred2.png"
+    alt="Landscape mulch"
     className="w-full rounded-xl object-cover"
   />
+
+  <p className="mt-2 text-sm text-stone-600">
+    Landscape bed refresh with mulch, stone, and curb appeal upgrades.
+  </p>
+
 </div>
 
 <div className="self-start rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+
   <img
-    src="/treerings1.png"
+    src="/mulchblack3.png"
+    alt="Tree ring mulch"
     className="w-full rounded-xl object-cover"
   />
+
+  <p className="mt-2 text-sm text-stone-600">
+    Tree ring mulch installation to keep trees healthy and yards clean.
+  </p>
+
 </div>
-</div>
-        </div>
       </section>
 
       <section id="services" className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
