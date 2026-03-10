@@ -96,6 +96,11 @@ export default function PineStrawMulchWebsite() {
     src="/pine1.png"
     className="h-40 w-full rounded-xl object-cover"
   />
+
+  <p className="mt-2 text-sm text-stone-600">
+    Fresh pine straw installation for clean, natural landscape beds.
+  </p>
+
 </div>
 
 <div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
