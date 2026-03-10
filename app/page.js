@@ -89,11 +89,11 @@ export default function PineStrawMulchWebsite() {
             </div>
           </div>
 
-<div className="grid items-start gap-4 grid-cols-2 max-w-md">
-<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+<div className="grid items-start gap-6 grid-cols-2 ml-4">
+<div className="rounded-3xl border border-stone-200 bg-white p-5 shadow-lg">
   <img
     src="/pine1.png"
-    className="w-full rounded-xl object-cover"
+    className="w-full h-36 rounded-xl object-cover"
   />
 
   <p className="mt-2 text-sm text-stone-600">
@@ -102,12 +102,12 @@ export default function PineStrawMulchWebsite() {
 
 </div>
 
-<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+<div className="rounded-3xl border border-stone-200 bg-white p-5 shadow-lg">
 
   <img
     src="/mulch1.png"
     alt="Mulch installation"
-    className="w-full rounded-xl object-cover"
+    className="w-full h-36 rounded-xl object-cover"
   />
 
   <p className="mt-2 text-sm text-stone-600">
@@ -116,12 +116,12 @@ export default function PineStrawMulchWebsite() {
 
 </div>
 
-<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+<div className="rounded-3xl border border-stone-200 bg-white p-5 shadow-lg">
 
   <img
     src="/mulchred2.png"
     alt="Landscape mulch"
-    className="w-full rounded-xl object-cover"
+   className="w-full h-36 rounded-xl object-cover"
   />
 
   <p className="mt-2 text-sm text-stone-600">
@@ -130,12 +130,12 @@ export default function PineStrawMulchWebsite() {
 
 </div>
 
-<div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
+<div className="rounded-3xl border border-stone-200 bg-white p-5 shadow-lg">
 
   <img
     src="/mulchblack3.png"
     alt="Tree ring mulch"
-    className="w-full rounded-xl object-cover"
+   className="w-full h-36 rounded-xl object-cover"
   />
 
   <p className="mt-2 text-sm text-stone-600">
