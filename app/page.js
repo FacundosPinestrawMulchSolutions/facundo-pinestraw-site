@@ -89,7 +89,7 @@ export default function PineStrawMulchWebsite() {
             </div>
           </div>
 
-<div className="grid items-start gap-4 grid-cols-2">
+<div className="grid items-start gap-4 grid-cols-2 max-w-md">
 <div className="rounded-3xl border border-stone-200 bg-white p-4 shadow-lg">
   <img
     src="/pine1.png"
